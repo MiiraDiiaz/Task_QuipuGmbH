@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_QuipuGmbH", "Task_QuipuGmbH\Task_QuipuGmbH.csproj", "{870F19E1-3429-4EB3-975F-89B7A2C28233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Debug|x64.ActiveCfg = Debug|x64
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Debug|x64.Build.0 = Debug|x64
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Debug|x86.ActiveCfg = Release|x86
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Debug|x86.Build.0 = Release|x86
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Release|x64.ActiveCfg = Release|x64
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Release|x64.Build.0 = Release|x64
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Release|x86.ActiveCfg = Release|x86
+		{870F19E1-3429-4EB3-975F-89B7A2C28233}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D76339A-584C-4C38-813B-E1DE02DCDF3A}
+	EndGlobalSection
+EndGlobal
